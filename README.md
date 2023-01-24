@@ -15,7 +15,7 @@ CONTEXTO: <i>Temos um problema e precisaremos da sua ajuda para resolver! Acumul
 <b>⇨ Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados.</b><br><br>
 
 
-A partir dos dados fornecidos optamos por utilizar a tabela GOT_episodes_4.cvs que apresenta dados sobre os episódios e temporadas da série Game of Thrones.
+A partir dos dados fornecidos optamos por utilizar a tabela GOT_episodes_v4.cvs que apresenta dados sobre os episódios e temporadas da série Game of Thrones.
 Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selecionamos as seguintes perguntas:<br>
 
   <ul>
