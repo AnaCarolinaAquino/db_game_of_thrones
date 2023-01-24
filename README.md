@@ -5,7 +5,7 @@ Grupo: <ol>
               <li>Ana Carolina Aquino</li>
               <li>Gabriela Rosa</li>
               <li>Hebert Garcia</li>
-              <li>Luceldo Minô</li>
+              <li>Lucelde Minô</li>
               <li>Marcelo Gomes</li>
        </ol>
 
