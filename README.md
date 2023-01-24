@@ -24,7 +24,9 @@ Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selec
     <li>Qual o episódio com maior duração?</li>
     <li>Qual o episódio com menor duração?</li>
   </ul>
-
+<br><br>
+<b>Abaixo consta uma prévia do dashboard desenvolvido.</b>
+![img_dashboard_game_of_thrones](https://user-images.githubusercontent.com/113844035/214375329-c4fd1a8b-6931-49b1-b4d2-4348b465f515.png)
   
 
 
@@ -68,5 +70,5 @@ SELECT * FROM got_episodes WHERE  season = 8 ORDER BY rating DESC LIMIT 1;
 /*Qual o episódio com maior duração?*/
 SELECT season, episode, title, duration FROM got_episodes ORDER BY duration DESC;
 <br><br>
-<!-–/*Qual o episódio com menor duração?*/–->
+/*Qual o episódio com menor duração?*/
 SELECT season, episode, title, duration FROM got_episodes ORDER BY duration ASC;
