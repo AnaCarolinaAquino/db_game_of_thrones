@@ -1,11 +1,13 @@
 <h1>Curso Programadores Cariocas</h1>
 <h2>Projeto em Grupo Módulo 4 – Resilia</h2>
 
-Grupo: Ana Carolina Aquino
-       Gabriela Rosa
-       Hebert Garcia
-       Luceldo Minô
-       Marcelo Gomes
+Grupo: <ol>
+              <li>Ana Carolina Aquino</li>
+              <li>Gabriela Rosa</li>
+              <li>Hebert Garcia</li>
+              <li>Luceldo Minô</li>
+              <li>Marcelo Gomes</li>
+       </ol>
 
 <br><br>
 CONTEXTO: <i>Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados. O conjunto de dados disponíveis podem ser encontrados aqui:<https://drive.google.com/drive/folders/1F9Rwbzzz4LJCxZU-mTR4JqDT_2vJ7-sC?usp=sharing>.</i><br><br>
@@ -25,7 +27,8 @@ Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selec
     <li>Qual o episódio com menor duração?</li>
   </ul>
 <br><br>
-<b>Abaixo consta uma prévia do dashboard desenvolvido.</b>
+<b>Abaixo consta uma prévia do dashboard desenvolvido.</b><br><br>
+       
 ![img_dashboard_game_of_thrones](https://user-images.githubusercontent.com/113844035/214375329-c4fd1a8b-6931-49b1-b4d2-4348b465f515.png)
   
 
