@@ -52,15 +52,19 @@ CREATE TABLE GOT_episodes (
 );<br><br>
 
 /*Quantas temporadas a série possui?*/
+  <br>
 SELECT COUNT(DISTINCT season) AS quantidade_de_temporadas FROM got_episodes;
 <br><br>
 /*Quantos episódios a série possui?*/
+  <br>
 SELECT COUNT(episode) AS quantidade_de_episódios FROM got_episodes;
 <br><br>
 /*Quantos episódios cada temporada possui?*/
+  <br>
 SELECT season, COUNT(episode) AS quantidade_de_episódios_por_temporada FROM got_episodes GROUP BY season;
 <br><br>
 /*Qual o episódio mais bem avaliado de cada temporada?*/
+  <br>
 SELECT * FROM got_episodes WHERE  season = 1  ORDER BY rating DESC LIMIT 1;
 SELECT * FROM got_episodes WHERE  season = 2  ORDER BY rating DESC LIMIT 1;
 SELECT * FROM got_episodes WHERE  season = 3  ORDER BY rating DESC LIMIT 1;
@@ -71,7 +75,9 @@ SELECT * FROM got_episodes WHERE  season = 7 ORDER BY rating DESC LIMIT 1;
 SELECT * FROM got_episodes WHERE  season = 8 ORDER BY rating DESC LIMIT 1;
 <br><br>
 /*Qual o episódio com maior duração?*/
+  <br>
 SELECT season, episode, title, duration FROM got_episodes ORDER BY duration DESC;
 <br><br>
 /*Qual o episódio com menor duração?*/
+  <br>
 SELECT season, episode, title, duration FROM got_episodes ORDER BY duration ASC;
