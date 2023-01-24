@@ -27,7 +27,7 @@ Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selec
     <li>Qual o episódio com menor duração?</li>
   </ul>
 <br><br>
-<b>Abaixo consta uma prévia do dashboard desenvolvido.</b><br><br>
+<b>Abaixo consta uma prévia do dashboard desenvolvido no Power BI.</b><br><br>
        
 ![img_dashboard_game_of_thrones](https://user-images.githubusercontent.com/113844035/214375329-c4fd1a8b-6931-49b1-b4d2-4348b465f515.png)
   
